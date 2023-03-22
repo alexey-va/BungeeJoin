@@ -1,0 +1,3 @@
+name: BungeeJoin
+version: '${project.version}'
+main: ru.mcfine.bungeejoin.bungeejoin.BungeeJoin
